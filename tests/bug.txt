@@ -1,0 +1,10 @@
+Task 2:
+
+Navigate to the specific page and ensure there are prices, color and size
+information for the selected item.
+
+- When trying to check the sizes (S, M, L) - small size is not found.
+
+Actual result: The text for small size is ''
+
+Expected result: The text for small size is 'S'
